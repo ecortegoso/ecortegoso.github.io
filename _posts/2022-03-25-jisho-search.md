@@ -17,6 +17,9 @@ While programming my other app [Kanji Samurai]({{ site.github.url }}{% post_url 
 
 ## Tips for usage
 
+You can search using English, romaji, kana or Kanji. See this video...
+![writing jiragana](/assets/img/jishosearch.mp4)
+
 You can search English, romaji...
 ![writing jiragana](/assets/img/3.PNG)
 ![writing jiragana](/assets/img/4.PNG)
