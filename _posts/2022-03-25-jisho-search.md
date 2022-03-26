@@ -17,7 +17,17 @@ While programming my other app [Kanji Samurai]({{ site.github.url }}{% post_url 
 
 ## Tips for usage
 
-You can search English, romaji, hiragana, katakana or kanji.
+You can search English, romaji...
+![writing jiragana](/assets/img/3.PNG)
+![writing jiragana](/assets/img/4.PNG)
+
+...katakana or hiragana...
+![writing jiragana](/assets/img/1.PNG)
+![writing jiragana](/assets/img/2.PNG)
+
+...or kanji.
+![writing jiragana](/assets/img/5.PNG)
+![writing jiragana](/assets/img/6.PNG)
 
 ## Where to get it
 
