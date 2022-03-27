@@ -34,6 +34,6 @@ You can search English, romaji...
 
 ## Where to get it
 
-Today, Jisho Search is available in the [App Store](https://apps.apple.com/es/app/kanji-samurai/id1607687972).
+Today, Jisho Search is available in the [App Store](https://apps.apple.com/es/app/jisho-search-app/id1616182828).
 
 
